@@ -1,0 +1,20 @@
+2020-08-23 04:26:40,797 - RNN2 - DEBUG - version control: (None, None)
+2020-08-23 04:26:41,450 - RNN2 - DEBUG - total points: 100
+2020-08-23 04:26:41,489 - RNN2 - DEBUG - number of actions: 2
+2020-08-23 04:26:41,489 - RNN2 - DEBUG - number of states: 0
+2020-08-23 04:26:41,547 - RNN2 - DEBUG - model created with ncells: 50
+2020-08-23 04:26:43,416 - RNN2 - DEBUG - number of actions: 2
+2020-08-23 04:26:43,416 - RNN2 - DEBUG - number of states: 0
+2020-08-23 04:26:43,428 - RNN2 - DEBUG - model created with ncells: 3
+2020-08-23 04:26:44,525 - RNN2 - DEBUG - Hessain loss is deactivated.
+2020-08-23 04:26:54,165 - RNN2 - DEBUG - global iter =   -1 enc loss:  3.8772 dec loss: 98.2647 discr loss:  0.0000 rand loss: 98.5168 grad z [10.32039868 10.46402178] z-cov: [0.235 0.075 0.075 0.035]
+2020-08-24 16:05:35,581 - RNN2 - DEBUG - version control: (None, None)
+2020-08-24 16:05:36,360 - RNN2 - DEBUG - total points: 100
+2020-08-24 16:05:36,443 - RNN2 - DEBUG - number of actions: 2
+2020-08-24 16:05:36,443 - RNN2 - DEBUG - number of states: 0
+2020-08-24 16:05:36,531 - RNN2 - DEBUG - model created with ncells: 50
+2020-08-24 16:05:39,039 - RNN2 - DEBUG - number of actions: 2
+2020-08-24 16:05:39,039 - RNN2 - DEBUG - number of states: 0
+2020-08-24 16:05:39,055 - RNN2 - DEBUG - model created with ncells: 3
+2020-08-24 16:05:40,463 - RNN2 - DEBUG - Hessain loss is deactivated.
+2020-08-24 16:05:49,679 - RNN2 - DEBUG - global iter =   -1 enc loss:  6.2509 dec loss: 89.6923 discr loss:  0.0000 rand loss: 91.7663 grad z [ 5.24329438 38.76839437] z-cov: [0.002 0.012 0.012 0.183]
